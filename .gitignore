@@ -1,4 +1,4 @@
-# Created by Rayne 2026.03.21
+# Created by LYVUS 2026.11.26
 
 ### Common ###
 .DS_Store
@@ -21,6 +21,10 @@ tmp/
 out/
 
 *.iml
+
+
+### Visual Studio Code ###
+.vscode
 
 
 ### Maven ###
